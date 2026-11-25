@@ -1,0 +1,20 @@
+{
+  "header_title": "Dewan Masyarakat KPG Tunku",
+  "btn_availability": "View Live Availability",
+  "btn_book_now": "Book Now",
+  "label_select_date": "Select Date",
+  "status_available": "Available",
+  "status_unavailable": "Unavailable",
+  "login_title": "Login to Proceed Payment",
+  "email": "Email Address",
+  "password": "Password",
+  "btn_login": "Login",
+  "total_price": "Total Price",
+  "btn_login_nav": "Log In",
+  "signup_title": "Create an Account",
+  "full_name": "Full Name",
+  "phone": "Phone Number",
+  "btn_signup": "Sign Up",
+  "no_account": "Don't have an account?",
+  "has_account": "Already have an account?"
+}

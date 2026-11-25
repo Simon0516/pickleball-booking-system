@@ -1,0 +1,20 @@
+{
+  "header_title": "Tunku 社区礼堂",
+  "btn_availability": "查看可预订日期",
+  "btn_book_now": "立即预订",
+  "label_select_date": "选择日期",
+  "status_available": "可预订",
+  "status_unavailable": "已占用",
+  "login_title": "请登录以继续付款",
+  "email": "电子邮箱",
+  "password": "密码",
+  "btn_login": "登录",
+  "total_price": "总金额",
+  "btn_login_nav": "登录",
+  "signup_title": "注册新账号",
+  "full_name": "姓名",
+  "phone": "手机号码",
+  "btn_signup": "注册",
+  "no_account": "还没有账号？",
+  "has_account": "已有账号？"
+}

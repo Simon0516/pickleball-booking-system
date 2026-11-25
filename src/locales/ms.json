@@ -1,0 +1,20 @@
+{
+  "header_title": "Dewan Masyarakat KPG Tunku",
+  "btn_availability": "Lihat Tarikh Kosong",
+  "btn_book_now": "Tempah Sekarang",
+  "label_select_date": "Pilih Tarikh",
+  "status_available": "Boleh Ditempah",
+  "status_unavailable": "Telah Ditempah",
+  "login_title": "Sila Log Masuk untuk Pembayaran",
+  "email": "Alamat E-mel",
+  "password": "Kata Laluan",
+  "btn_login": "Log Masuk",
+  "total_price": "Jumlah Harga",
+  "btn_login_nav": "Log Masuk",
+  "signup_title": "Daftar Akaun Baharu",
+  "full_name": "Nama Penuh",
+  "phone": "Nombor Telefon",
+  "btn_signup": "Daftar",
+  "no_account": "Belum ada akaun?",
+  "has_account": "Sudah ada akaun?"
+}
